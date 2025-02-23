@@ -1,0 +1,53 @@
+:root {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    background-color: #1a1a1a;
+  }
+  
+  .Root {
+    text-align: center;
+  }
+  
+  .textMarkUp {
+    color: aliceblue;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .Btn {
+    width: 200px;
+    height: 70px;
+    border: 5px solid;
+    border-radius: 10px;
+    background-color: #313131;
+    color: aliceblue;
+    font-family: "Courier New", Courier, monospace;
+    font-size: large;
+    font-weight: 600;
+    margin: 5px;
+  }
+
+  .BtnSet {
+    width: 500px;
+    height: 70px;
+    border: 5px solid yellow;
+    border-radius: 10px;
+    background-color: #313131;
+    color: aliceblue;
+    font-family: "Courier New", Courier, monospace;
+    font-size: large;
+    font-weight: 600;
+    margin: 5px;
+  }
+  
+  .dataCSS{
+    display: inline-block;
+    color: aliceblue;
+    font-size: 28px;
+    font-weight: 900;
+  }
