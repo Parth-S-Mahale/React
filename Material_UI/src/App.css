@@ -1,0 +1,19 @@
+:root {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #151515;
+  color: white;
+}
+
+.mainHeader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid rgb(255, 0, 212)
+}
+
+.midBtn {
+  justify-content: center;
+}
